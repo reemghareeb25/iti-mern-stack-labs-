@@ -1,0 +1,37 @@
+.page {
+    text-align: center;
+    padding: 100px;
+    background: linear-gradient(to right, rgb(108, 169, 134), rgb(116, 128, 158));
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+  
+.coin-container {
+    text-align: center;
+}
+  
+.coin-image {
+    width: 150px;
+    margin: 20px auto;
+    display: block;
+}
+  
+.flip-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #28636b;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+  
+.flip-button:hover {
+    background-color: #008ba3;
+}
+  
+p {
+    margin-top: 20px;
+    font-size: 18px;
+}
+  
