@@ -1,1 +1,1 @@
-# iti-mern-stack-labs-
+# iti-mern-stack-labs
