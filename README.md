@@ -7,11 +7,6 @@ A collection of labs and exercises for the ITI MERN Stack program, designed to p
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
-3. [Setup and Installation](#setup-and-installation)
-4. [Folder Structure](#folder-structure)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -31,10 +26,3 @@ The labs in this repository use the following tools and frameworks:
 - **React.js**
 - Other dependencies listed in each lab's `package.json`.
 
----
-
-## Setup and Installation
-To set up and run the labs locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/iti-mern-stack-labs.git
