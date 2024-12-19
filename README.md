@@ -24,5 +24,4 @@ The labs in this repository use the following tools and frameworks:
 - **Express.js**
 - **MongoDB**
 - **React.js**
-- Other dependencies listed in each lab's `package.json`.
 
